@@ -8,4 +8,5 @@ reports/
 
 # Node/npm
 node_modules/
+
 .worktrees/
